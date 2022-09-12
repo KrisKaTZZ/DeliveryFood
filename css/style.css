@@ -495,6 +495,15 @@ body {
   .price {
     font-size: 10px;
   }
+  .btn-text {
+    display: none;
+  }
+  .button {
+    min-height: 40px;
+  }
+  .btn-icon {
+    margin: 0;
+  }
 }
 
 @media (max-width: 578px) {
@@ -548,8 +557,14 @@ body {
   .social-links {
     order: 2;
   }
+  .input-search {
+    margin: 0;
+  }
 }
 @media (max-width: 480px) {
+  .input-search {
+    margin: 0;
+  }
   .btn-text {
     display: none;
   }

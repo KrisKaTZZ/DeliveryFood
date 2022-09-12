@@ -596,4 +596,13 @@ body {
   .footer-link:not(:last-child) {
     margin-right: 0;
   }
+  .food-name {
+    font-size: 14px;
+  }
+  .food-price {
+    font-size: 18px;
+  }
+  .modal-pricetag {
+    padding: 11px 12px;
+  }
 }
